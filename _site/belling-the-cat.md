@@ -1,10 +1,4 @@
 % Belling the Cat
-<<<<<<< HEAD
-% Credit due to Eliot/Jacobs, V. S. Vernon Jones, Jefferys Taylor, JBR Collection, Jean de La Fontaine versions of a fable by Aesop.
-% with original contributions from Rabia Abbasi and Jon Page. July 20. 2016
-
-# In the beginning
-=======
 % Credit due to Eliot/Jacobs, V. S. Vernon Jones, Jefferys Taylor, JBR Collection, Jean de La Fontaine versions of a fable by Aesop with original contributions from Rabia Abbasi and Jon Page.
 % July 20. 2016
 
@@ -12,7 +6,6 @@
 <aside class="notes">
 A long time ago in a large country-house far far away
 </aside>
->>>>>>> b4a05ff25398ddd241037d07a7076bee0f1255c1
 
 # Scary cat
 <aside class="notes">
