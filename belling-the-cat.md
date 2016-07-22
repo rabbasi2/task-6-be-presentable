@@ -5,7 +5,7 @@
 
 # In the beginning
 =======
-% Credit due to Eliot/Jacobs, V. S. Vernon Jones, Jefferys Taylor, JBR Collection, Jean de La Fontaine versions of a fable by Aesop with original contributions from Rabia Abbasi and Jon Page.
+% Credit due to fable by Aesop with original contributions from Rabia Abbasi and Jon Page.
 % July 20. 2016
 
 # In the begining
