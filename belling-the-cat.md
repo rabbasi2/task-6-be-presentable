@@ -1,7 +1,7 @@
 % Belling the Cat
 <<<<<<< HEAD
-% Credit due to Eliot/Jacobs, V. S. Vernon Jones, Jefferys Taylor, JBR Collection, Jean de La Fontaine versions of a fable by Aesop.
-% with original contributions from Rabia Abbasi and Jon Page. July 20. 2016
+% fable by Aesop with original contributions from Rabia Abbasi and Jon Page. 
+% July 20. 2016
 
 # In the beginning
 =======
